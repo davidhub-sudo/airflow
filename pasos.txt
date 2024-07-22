@@ -1,0 +1,2 @@
+abrir docker desktop
+ir a la carpeta airflow con la terminal y hacer astro dev start
